@@ -29,6 +29,17 @@ I'm a B.Tech Computer Science and Engineering student at NIT Surat passionate ab
 - 🏆 **Cash Prize of 2000 AED** — for Litter-Ballista — a pollution-awareness game 🎮 built with Pygame at **International Digital Fest 2023**  
 - 💻 Participated in several hackathons with team-based web projects as well as individual ones. 
 
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,mysql" />
+  
+</div>
+
+---
 
 
 Always open to learning, collaborating, and growing in tech!
