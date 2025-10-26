@@ -25,9 +25,10 @@ I'm a B.Tech Computer Science and Engineering student at NIT Surat passionate ab
 
 ### 🏅 Achievements
 - I was awarded the **UAE Golden Visa** for academic excellence and being among the top-performing students in the region.
-- 🥇 **Best Gaming Hack** — Boost Hacks II  
-- 🏆 **Cash Prize of 2000 AED** — for Litter-Ballista — a pollution-awareness game 🎮 built with Pygame at **International Digital Fest 2023**  
-- 💻 Participated in several hackathons with team-based web projects as well as individual ones. 
+- **Winner** of Hackoverflow 9.0 conducted by NIT Durgapur.
+- **Best Gaming Hack** - Boost Hacks II  
+- **Cash Prize of 2000 AED** - for Litter-Ballista, a pollution-awareness game 🎮 built with Pygame at **International Digital Fest 2023**  
+- Participated in several hackathons with team-based web projects as well as individual ones. 
 
 ---
 
@@ -35,7 +36,7 @@ I'm a B.Tech Computer Science and Engineering student at NIT Surat passionate ab
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,mysql,git,react,nodejs,mongodb" />
   
 </div>
 
@@ -44,17 +45,3 @@ I'm a B.Tech Computer Science and Engineering student at NIT Surat passionate ab
 
 Always open to learning, collaborating, and growing in tech!
 
-<!--
-**DiyaMenon/DiyaMenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
