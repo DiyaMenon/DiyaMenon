@@ -19,7 +19,7 @@
 
 ### 📌 About Me
 
-I'm a B.Tech Computer Science and Engineering student at NIT Surat passionate about building meaningful tech — from impactful games to full-stack apps. I'm constantly exploring new technologies, contributing to open source, and participating in global hackathons.
+I'm a B.Tech Computer Science and Engineering student at NIT Surat passionate about building meaningful tech - from impactful games to full-stack apps. I'm constantly exploring new technologies, contributing to open source, and participating in global hackathons.
 
 ---
 
